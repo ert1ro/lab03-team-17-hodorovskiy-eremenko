@@ -2,8 +2,8 @@ Markdown
 # Лабораторна робота № 3
 
 **Тема:** Спільна робота з Git i GitHub. Створення та розв'язання конфлікту  
-**Варіант:** [Ваш номер варианта]  
+**Варіант:** 17 
 
 ## Склад пари:
-* **Студент А:** [Eremenko Timofiy, ert1ro]
-* **Студент В:** [Hodorovskiy Dmitro, Boba220192]
+* **Студент А:** Eremenko Timofiy, ert1ro
+* **Студент В:** Hodorovskiy Dmitro, Boba220192
