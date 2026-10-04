@@ -5,7 +5,7 @@ theme: "light",
 language: "uk",
 itemsPerPage: 10,
 welcomeMessage: "Welcome",
-dateFormat: "YYYY.MM.DD",
+dateFormat: "DD.MM.YYYY",
 sortOrder: "ascending",
 accessLevel: "student",
 displayMode: "compact"
